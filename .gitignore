@@ -1,0 +1,10 @@
+# Ignore compiled files
+*.o
+*.exe
+manager
+
+# Ignore data file
+students.txt
+
+# macOS system files
+.DS_Store
