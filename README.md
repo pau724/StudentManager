@@ -36,7 +36,8 @@ StudentManager/
 ```bash
 g++ main.cpp -o manager
 Run
-./manager📖 Example Session
+./manager
+📖 Example Session
 === STUDENT MANAGER ===
 1. Add student
 2. List students
