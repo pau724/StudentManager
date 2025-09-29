@@ -1,7 +1,6 @@
 # 🎓 Student Manager (C++)
 
-Eine einfache, aber vollständige **C++-Konsolenanwendung**, die ein Student-Management-System mit persistenter Speicherung in einer Textdatei simuliert.  
-Dieses Projekt zeigt **OOP**, **Dateiverarbeitung** und einen vollständigen **CRUD**-Workflow (Create, Read, Update, Delete) — ideal für ein Studenten-Portfolio (Werkstudent-Bewerbungen).
+
 
 ---
 
