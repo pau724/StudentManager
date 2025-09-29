@@ -1,7 +1,5 @@
 # 🎓 Student Manager (C++)
 
-A simple but complete **C++ console application** that simulates a student management system with persistent storage in a text file.  
-Built to showcase **OOP**, **file handling**, and a full **CRUD** (Create, Read, Update, Delete) workflow — perfect for a student portfolio (Werkstudent applications).
 
 ---
 
